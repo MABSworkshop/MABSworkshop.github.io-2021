@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Call for papers"
-permalink: /mabs2021/cfp/
+permalink: /cfp/
 ---
 
 MABS 20201 is part of the AAMAS 2021 conference taking place in London, UK on 3rd-7th of May 2021 
